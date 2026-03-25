@@ -3,3 +3,9 @@ new_readme.txt
 
 #ignore a folder
 build/
+
+#ignore all .log files
+*.log
+
+#ignore all .tmp files in the temp folder
+temp/*.tmp
