@@ -1,0 +1,2 @@
+ The frequency data is gotten from GridRadar.net
+
